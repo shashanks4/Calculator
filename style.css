@@ -1,0 +1,22 @@
+.title{
+    margin-bottom: 10px; 
+     text-align:center; 
+     width: 210px; 
+     color:green; 
+     border: solid black 2px; 
+  }
+  input[type="button"]{
+      width: 100%;background-color: darkgray;
+      cursor: grab;
+      
+  }
+  #container{
+        padding-top: 10%;
+        padding-left: 10%;
+        align-self: center;
+        box-align: center;
+     
+    }
+ input[type="text"]{
+     background-color: dimgrey;
+ }
